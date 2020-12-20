@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+
+.container__left {
+  flex: 0.17;
+  position: relative;
+}
+
+.container__right {
+  flex: 0.85;
+}
